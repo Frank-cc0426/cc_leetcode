@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/two_sum.dir/build.make CMakeFiles/two_sum.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+questions/two_sum/method1.o: questions/two_sum/method1.cpp.o
+
+.PHONY : questions/two_sum/method1.o
+
+# target to build an object file
+questions/two_sum/method1.cpp.o:
+	$(MAKE) -f CMakeFiles/two_sum.dir/build.make CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.o
+.PHONY : questions/two_sum/method1.cpp.o
+
+questions/two_sum/method1.i: questions/two_sum/method1.cpp.i
+
+.PHONY : questions/two_sum/method1.i
+
+# target to preprocess a source file
+questions/two_sum/method1.cpp.i:
+	$(MAKE) -f CMakeFiles/two_sum.dir/build.make CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.i
+.PHONY : questions/two_sum/method1.cpp.i
+
+questions/two_sum/method1.s: questions/two_sum/method1.cpp.s
+
+.PHONY : questions/two_sum/method1.s
+
+# target to generate assembly for a file
+questions/two_sum/method1.cpp.s:
+	$(MAKE) -f CMakeFiles/two_sum.dir/build.make CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.s
+.PHONY : questions/two_sum/method1.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... questions/two_sum/method1.o"
+	@echo "... questions/two_sum/method1.i"
+	@echo "... questions/two_sum/method1.s"
 .PHONY : help
 
 
