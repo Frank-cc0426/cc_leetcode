@@ -4,8 +4,13 @@
 CMakeFiles/two_sum.dir/main.cpp.o: ../main.cpp
 CMakeFiles/two_sum.dir/main.cpp.o: ../questions/two_sum/header.hpp
 CMakeFiles/two_sum.dir/main.cpp.o: ../questions/two_sum/method1.hpp
+CMakeFiles/two_sum.dir/main.cpp.o: ../questions/two_sum/method2.hpp
 
 CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.o: ../questions/two_sum/header.hpp
 CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.o: ../questions/two_sum/method1.hpp
 CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.o: ../questions/two_sum/method1.cpp
+
+CMakeFiles/two_sum.dir/questions/two_sum/method2.cpp.o: ../questions/two_sum/header.hpp
+CMakeFiles/two_sum.dir/questions/two_sum/method2.cpp.o: ../questions/two_sum/method2.cpp
+CMakeFiles/two_sum.dir/questions/two_sum/method2.cpp.o: ../questions/two_sum/method2.hpp
 

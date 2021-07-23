@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/two_sum.dir/main.cpp.o"
   "CMakeFiles/two_sum.dir/questions/two_sum/method1.cpp.o"
+  "CMakeFiles/two_sum.dir/questions/two_sum/method2.cpp.o"
   "two_sum.pdb"
   "two_sum"
 )

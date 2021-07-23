@@ -1,15 +1,15 @@
-#ifndef METHOD1_HPP
-#define METHOD1_HPP
+#ifndef METHOD2_HPP
+#define METHOD2_HPP
 
 #include <iostream>
 #include <array>
 #include "header.hpp"
 
-class Method1:public TwoSum
+class Method2:public TwoSum
 {
 public:
-    Method1();
-    ~Method1();
+    Method2();
+    ~Method2();
 
     virtual int* twoSum(int input);
 
@@ -20,5 +20,4 @@ private:
 
 #endif
 
-
-//时间复杂度O(n^2)，空间复杂度O(1)。
+//时间复杂度O(n)，空间复杂度O(n)。

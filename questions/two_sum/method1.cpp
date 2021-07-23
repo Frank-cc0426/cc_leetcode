@@ -3,6 +3,7 @@
 using namespace std;
 
 Method1::Method1()
+  :nums{2, 7, 11, 15}
 {
     cout << "construct" << endl;
 }
