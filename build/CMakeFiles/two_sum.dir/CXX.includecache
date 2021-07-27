@@ -28,6 +28,16 @@ questions/two_sum/method1.hpp
 questions/two_sum/method2.hpp
 /home/frank/workspace/leetcode/cc_leetcode/questions/two_sum/method2.hpp
 
+/home/frank/workspace/leetcode/cc_leetcode/questions/two_add/method1.cpp
+iostream
+-
+method1.hpp
+/home/frank/workspace/leetcode/cc_leetcode/questions/two_add/method1.hpp
+
+/home/frank/workspace/leetcode/cc_leetcode/questions/two_add/method1.hpp
+iostream
+-
+
 /home/frank/workspace/leetcode/cc_leetcode/questions/two_sum/header.hpp
 iostream
 -

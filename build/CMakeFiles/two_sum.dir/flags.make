@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/frank/workspace/leetcode/cc_leetcode/questions/two_sum 
+CXX_INCLUDES = -I/home/frank/workspace/leetcode/cc_leetcode/questions/two_sum -I/home/frank/workspace/leetcode/cc_leetcode/questions/two_add 
 
